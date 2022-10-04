@@ -1,0 +1,19 @@
+body{
+  background-color: antiquewhite;
+}
+#stratasan{
+  font-family: 'Courier New', Courier, monospace;
+  border: 10px solid blue;
+}
+#permobil{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 20px dashed pink;
+}
+#aloompa{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 30px double red;
+}
+#ica{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 40px dotted chartreuse;
+}
